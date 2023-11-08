@@ -17,8 +17,8 @@ const getText = async (sessionId: string) => {
         headers: {
             'Authorization': 'Bearer ' + sessionId,
         }
-}).then(resp => resp.json())
-  return response
+    }).then(resp => resp.json())
+    return response
 };
 
 const saveText = async (textarea: string, sessionId: string) => {
