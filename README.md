@@ -8,4 +8,6 @@ Can be installed as a Progressive Web Application on mobile. Go to scratchpad.ru
   
 Useful for moving a link, an email or some long text from your phone to another phone/your computer or vice versa. No need to login to your notepad app, Google Docs, iCloud, etc.  
   
-Cloudflare Pages, Cloudflare Durable Objects, Cloudflare Workers, Hono, Next.js. SWR, TailwindCSS, shadcn/ui, Radix-UI, LuciaAuth(CF R1 SQLite for users and CF KV Store for sessions). Serverless, auto-scaling.  
+Cloudflare Pages, Cloudflare Durable Objects, Cloudflare Workers, Hono, Next.js. SWR, TailwindCSS, shadcn/ui, Radix-UI, LuciaAuth(CF R1 SQLite for users and CF KV Store for sessions).  
+  
+Serverless, highly-available, globally distributed, auto-scaling.  
